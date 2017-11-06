@@ -1,0 +1,2 @@
+# gobbledygook
+A null depository
